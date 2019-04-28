@@ -9,7 +9,7 @@
 ```
 @misc{
   jianlin2019bdel,
-  title={Hybrid Structure of Pointer and Ragging for Entity Recognition and Linking: A Baseline},
+  title={Hybrid Structure of Pointer and Tagging for Entity Recognition and Linking: A Baseline},
   author={Jianlin Su},
   year={2019},
   publisher={GitHub},
