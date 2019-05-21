@@ -242,7 +242,7 @@ def extract_items(text_in):
         if len(j) > 0:
             j = j[0]
             _subject = text_in[i: j+1]
-            _subjects.append((_subject, i, j))
+            _subjects.append((_subject, i, j+1))
     if _subjects:
         R = []
         _X2, _Y = [], []
