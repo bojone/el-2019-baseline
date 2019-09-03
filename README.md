@@ -1,6 +1,8 @@
 # el-2019-baseline
 2019年百度的实体链指比赛（ ccks2019，https://biendata.com/competition/ccks_2019_el/ ），一个baseline
 
+注：正式版已经更新至 https://github.com/bojone/el-2019
+
 ## 模型
 用BiLSTM做实体标注，然后匹配实体id。
 
